@@ -1,0 +1,45 @@
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\bin\Debug\net6.0\IntGenerator.deps.json
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\bin\Debug\net6.0\IntGenerator.dll
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\bin\Debug\net6.0\IntGenerator.pdb
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\bin\Debug\net6.0\FakerLib.dll
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\bin\Debug\net6.0\FakerLib.pdb
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.csproj.AssemblyReference.cache
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.AssemblyInfoInputs.cache
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.AssemblyInfo.cs
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.csproj.CoreCompileInputs.cache
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.csproj.CopyComplete
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.dll
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\refint\IntGenerator.dll
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.pdb
+C:\Users\yr\Desktop\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\ref\IntGenerator.dll
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\bin\Debug\net6.0\IntGenerator.deps.json
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\bin\Debug\net6.0\IntGenerator.dll
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\bin\Debug\net6.0\IntGenerator.pdb
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\bin\Debug\net6.0\FakerLib.dll
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\bin\Debug\net6.0\FakerLib.pdb
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.csproj.AssemblyReference.cache
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.AssemblyInfoInputs.cache
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.AssemblyInfo.cs
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.csproj.CoreCompileInputs.cache
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.csproj.CopyComplete
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.dll
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\obj\Debug\net6.0\refint\IntGenerator.dll
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.pdb
+D:\house\шарага\6 сем\СПП\SPP-L2-main\SPP-L2-main\ConsoleApp1\IntGenerator\obj\Debug\net6.0\ref\IntGenerator.dll
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\bin\Debug\net6.0\IntGenerator.deps.json
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\bin\Debug\net6.0\IntGenerator.dll
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\bin\Debug\net6.0\IntGenerator.pdb
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\bin\Debug\net6.0\FakerLib.dll
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\bin\Debug\net6.0\FakerLib.pdb
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.csproj.AssemblyReference.cache
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.AssemblyInfoInputs.cache
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.AssemblyInfo.cs
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.csproj.CoreCompileInputs.cache
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.csproj.CopyComplete
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.dll
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\refint\IntGenerator.dll
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\IntGenerator.pdb
+D:\house\шарага\6 сем\СПП\SPP-L2\ConsoleApp1\IntGenerator\obj\Debug\net6.0\ref\IntGenerator.dll
